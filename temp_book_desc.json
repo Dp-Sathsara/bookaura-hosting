@@ -1,0 +1,17 @@
+{
+    "title": "Description Test Book",
+    "author": "Tester",
+    "price": 500,
+    "originalPrice": 600,
+    "category": "Test",
+    "stock": 10,
+    "description": "This is a custom description for testing.",
+    "isFeatured": false,
+    "isChoice": false,
+    "rating": 5,
+    "soldCount": 0,
+    "keywords": [
+        "test",
+        "description"
+    ]
+}

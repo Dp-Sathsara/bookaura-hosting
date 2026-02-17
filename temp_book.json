@@ -1,0 +1,17 @@
+{
+    "title": "CLI Test Book Annotation",
+    "author": "Debugger",
+    "price": 500,
+    "originalPrice": 600,
+    "category": "Test",
+    "stock": 10,
+    "description": "A test book created via CLI",
+    "isFeatured": false,
+    "isChoice": false,
+    "rating": 4.5,
+    "soldCount": 0,
+    "keywords": [
+        "test",
+        "annotation"
+    ]
+}
